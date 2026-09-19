@@ -17,6 +17,8 @@
   background-color: lightblue;
 }
 
+/* Ken Yong: Good to see that you are using separate classes to demonstrate
+the visual differences between border, margin and padding values. */
 .border-0 {
   border: 0 solid blue;
 }
@@ -62,6 +64,8 @@ body {
   padding-bottom: 60px;
 }
 
+/* Ken Yong: I really like this one! The use of 1 ad card to demonstrate fixed, absolute,
+relative and static positioning together in a single example! Love it! */
 .ad-card {
   position: fixed;
   right: 20px;
